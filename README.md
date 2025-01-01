@@ -17,10 +17,10 @@ This application is developed for Student, student can check courses about Inter
 
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
-  <img src="ScreenShots/1.jpg" alt="Alt text" width="200" height="500">
-  <img src="ScreenShots/2.jpg" alt="Alt text" width="200" height="500">
-  <img src="ScreenShots/3.jpg" alt="Alt text" width="200" height="500">
-  <img src="ScreenShots/4.jpg" alt="Alt text" width="200" height="500">
-  <img src="ScreenShots/5.jpg" alt="Alt text" width="200" height="500">
+  <img src="ScreenShots/1.jpg" alt="Alt text" width="250" height="500">
+  <img src="ScreenShots/2.jpg" alt="Alt text" width="250" height="500">
+  <img src="ScreenShots/3.jpg" alt="Alt text" width="250" height="500">
+  <img src="ScreenShots/4.jpg" alt="Alt text" width="250" height="500">
+  <img src="ScreenShots/5.jpg" alt="Alt text" width="250" height="500">
 </div>
 
