@@ -8,7 +8,7 @@ Android App : https://play.google.com/store/apps/details?id=com.eductrl.app
 <BR>
 Ios App : https://apps.apple.com/us/app/trencher-ai-ai-study-guide/id6741321223
 <BR>
-Web Site : https://.....
+Web Site : https://www.trencher.ai
 <BR><BR>
 This application is developed for Student, student can check courses about Internation study with many more details like course details,course fees,course time duration, Addmission process etc...<BR>
 
