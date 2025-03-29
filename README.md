@@ -4,9 +4,9 @@ Platform : Flutter<BR>
 State Management : GetX<BR>
 <BR>
 <BR>
-Android App : https://play.google.com/store/apps/details?id=....
+Android App : https://play.google.com/store/apps/details?id=com.eductrl.app
 <BR>
-Ios App : https://apps.apple.com/us/app/.....
+Ios App : https://apps.apple.com/us/app/trencher-ai-ai-study-guide/id6741321223
 <BR>
 Web Site : https://.....
 <BR><BR>
